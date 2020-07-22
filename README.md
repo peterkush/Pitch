@@ -37,3 +37,5 @@ modi### Project name
 ~sqlalchemy
 
 
+###ive link to the deployed app
+https://pitch-in-60-sec-45.herokuapp.com/
