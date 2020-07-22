@@ -13,7 +13,7 @@ modi### Project name
 
 ### Setup and Installation
 
-~ clone or download and unzip the repository from github
+~ clone or download and unzip the repository from github https://github.com/peterkush/Pitch
 
 ~ cd into the project folder and open in text editor
 ~ create the virtual environment by running python3.8 -m venv --without-pip virtual
